@@ -1,0 +1,23 @@
+
+Metrics for First-Order Features (default parameter):
+ - Accuracy: 93.16%
+ - Precision: 0.93
+ - Recall: 0.93
+ - F1-Score: 0.93
+Training time: 19.76 seconds
+
+
+Metrics for Second-Order Features (default parameter):
+ - Accuracy: 44.71%
+ - Precision: 0.44
+ - Recall: 0.45
+ - F1-Score: 0.44
+Training time: 8.73 seconds
+
+
+Metrics for Combined First and Second-Order Features (default parameter):
+ - Accuracy: 93.21%
+ - Precision: 0.93
+ - Recall: 0.93
+ - F1-Score: 0.93
+Training time: 11.11 seconds
