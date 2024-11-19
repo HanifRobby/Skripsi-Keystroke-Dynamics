@@ -1,7 +1,0 @@
-{"time":"2024-11-16T15:41:56.225619489+07:00","level":"INFO","msg":"using version","core version":"0.18.7"}
-{"time":"2024-11-16T15:41:56.225640941+07:00","level":"INFO","msg":"created symlink","path":"/home/crystallizer/Documents/Skripsi/Code/Documentation/wandb/offline-run-20241116_154156-4lxx0tmy/logs/debug-core.log"}
-{"time":"2024-11-16T15:41:56.328677724+07:00","level":"INFO","msg":"created new stream","id":"4lxx0tmy"}
-{"time":"2024-11-16T15:41:56.328696193+07:00","level":"INFO","msg":"stream: started","id":"4lxx0tmy"}
-{"time":"2024-11-16T15:41:56.328705937+07:00","level":"INFO","msg":"writer: Do: started","stream_id":"4lxx0tmy"}
-{"time":"2024-11-16T15:41:56.328711195+07:00","level":"INFO","msg":"sender: started","stream_id":"4lxx0tmy"}
-{"time":"2024-11-16T15:41:56.328721104+07:00","level":"INFO","msg":"handler: started","stream_id":"4lxx0tmy"}
