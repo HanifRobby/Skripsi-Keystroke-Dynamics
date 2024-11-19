@@ -1,0 +1,35 @@
+Fitting 5 folds for each of 8 candidates, totalling 40 fits
+
+Best parameters for First-Order Features (with GridSearch): {'learning_rate': 0.2, 'max_depth': 3, 'n_estimators': 100}
+Best cross-validated accuracy: 93.33%
+
+Test Metrics for First-Order Features (with GridSearch):
+ - Accuracy: 94.34%
+ - Precision: 0.94
+ - Recall: 0.94
+ - F1-Score: 0.94
+Training time (with GridSearch): 127.31 seconds
+
+Fitting 5 folds for each of 8 candidates, totalling 40 fits
+
+Best parameters for Second-Order Features (with GridSearch): {'learning_rate': 0.1, 'max_depth': 5, 'n_estimators': 100}
+Best cross-validated accuracy: 45.87%
+
+Test Metrics for Second-Order Features (with GridSearch):
+ - Accuracy: 46.74%
+ - Precision: 0.46
+ - Recall: 0.47
+ - F1-Score: 0.45
+Training time (with GridSearch): 48.02 seconds
+
+Fitting 5 folds for each of 8 candidates, totalling 40 fits
+
+Best parameters for Combined First and Second-Order Features (with GridSearch): {'learning_rate': 0.2, 'max_depth': 3, 'n_estimators': 100}
+Best cross-validated accuracy: 93.38%
+
+Test Metrics for Combined First and Second-Order Features (with GridSearch):
+ - Accuracy: 94.51%
+ - Precision: 0.95
+ - Recall: 0.94
+ - F1-Score: 0.94
+Training time (with GridSearch): 148.79 seconds
