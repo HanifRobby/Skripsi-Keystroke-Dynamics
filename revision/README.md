@@ -1,7 +1,7 @@
 # Project Revision
 
 ## 1 Model 1 User
-Focusing on develop the code for 1 model for each user in the dataset. Matching real life use case, the model used for authenticatiion for checking if keystroke dynamics matching the real user, not identify who is the user based on the keystroke dynamics.
+This phase focuses on developing a model for each user in the dataset. In line with real-world applications, the model is used for authentication purposes, specifically to verify whether the keystroke dynamics match those of the legitimate user, rather than identifying the user based on their keystroke dynamics.
 
 ## Applying Ensemble Classifier Voting 
-Fullfilling the research problem statement, find out if using ensemble classifier can increase the model accuracy or the other evalution matrix.
+his approach aims to address the research problem by investigating whether the use of an ensemble classifier can improve model accuracy or other evaluation metrics.
